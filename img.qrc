@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>calendar_icon.svg.png</file>
+        <file>camera_icon.svg.png</file>
+        <file>music_icon.svg.png</file>
+        <file>todo_icon.svg.png</file>
+        <file>welcome_icon.svg.png</file>
+        <file>topeet_icon.jpeg</file>
+        <file>topeet_icon.jpg</file>
+        <file>topeet_background_stretch.jpg</file>
+        <file>topeet_background_stretch.rotated.jpg</file>
+        <file>homebutton_icon.svg.png</file>
+        <file>browser_icon.svg.png</file>
+        <file>led_icon.svg.png</file>
+        <file>buzzer_icon.svg.png</file>
+        <file>bookmarks_icon.svg.png</file>
+        <file>videoplayer_icon.svg.png</file>
+        <file>fingerpaint_icon.svg.png</file>
+    </qresource>
+</RCC>
